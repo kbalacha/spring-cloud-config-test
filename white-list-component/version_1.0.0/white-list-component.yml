@@ -2,7 +2,7 @@
 spring:
   application:
     name: white-list-component
-
+#I am PROD - MASTER 100
   cloud:
     config:
       enabled: true
