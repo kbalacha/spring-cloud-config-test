@@ -1,4 +1,4 @@
-#THIS IS NONPROD
+#THIS IS NONPROD 100
 spring:
   application:
     name: white-list-component
