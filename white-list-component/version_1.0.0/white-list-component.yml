@@ -1,3 +1,4 @@
+#I am PROD - MASTER
 spring:
   application:
     name: white-list-component
