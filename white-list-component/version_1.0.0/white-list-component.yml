@@ -24,7 +24,7 @@ spring:
           content-type: application/json
 
   jersey:
-    application-path: /api
+    application-path: /apitest
 
 server:
   servlet-path: /
